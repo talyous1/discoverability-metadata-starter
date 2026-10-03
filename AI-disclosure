@@ -1,0 +1,6 @@
+Google AI was used to explain canonical URLs:
+
+Every single unique page on your website should have its own canonical URL. A canonical URL simply means the "master copy" or preferred version of that specific page.
+How Canonical URLs Work
+If you have a page about green dresses (example.com/dresses/green), its canonical URL should point to itself (example.com/dresses/green), not to the homepage (example.com).
+A canonical URL points to the home page only when the page in question is a duplicate or a variation of the home page itself.
