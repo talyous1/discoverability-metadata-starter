@@ -1,0 +1,5 @@
+Ranking claim:
+A common claim is that stuffing keywords into the meta description will boost your ranking factor. Google has said that meta descriptions aren't a ranking factor. I did not stuff the meta description with keywords for this website. Meta descriptions mainly affect the snippet people see in results, which is why the one I wrote describes what's on the page instead.
+
+Evidence note:
+I changed the title from "Home" to "Garden Skills Day: Free Community Gardening Workshop" and rewrote the description to match the visible hero text. I replaced the three nav links from "Click here," "More," and "Info" to "Home," "Schedule," and "Register," and the button went from "Click here" to "Register now." This allows the site to have more descriptive and relevant anchor text. I set a canonical to the GitHub Pages URL. I renamed the image to garden-container-illustration.svg and rewrote the alt text to describe the image. I checked the view-source and verified that the title, description, and canonical are in the head of the html, located on lines 6-8.
